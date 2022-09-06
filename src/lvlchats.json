@@ -1,0 +1,35 @@
+{
+    "lvl1":{
+    "name": "#1",
+    "description": "Congrats, on your level 1 achievement",
+    "image": "https://arweave.net/ezpV6q5HM066IrDI9-qGklriU1vac4DmXCO01aCyVTM",
+    "edition": 1,
+    "attributes": [
+      { "trait_type": "Level", "value": "1" },
+      { "trait_type": "Messages", "value": "5" }
+    ],
+    "platform": "Thentic Chat App"
+},
+"lvl2":{
+    "name": "#2",
+    "description": "Congrats, on your level 2 achievement",
+    "image": "https://arweave.net/WSWJpEVCCIGsPh0kVa6HC7GZMVSNLt2rRYKW05JWeCo",
+    "edition": 1,
+    "attributes": [
+      { "trait_type": "Level", "value": "2" },
+      { "trait_type": "Messages", "value": "15" }
+    ],
+    "platform": "Thentic Chat App"
+},
+"lvl3":{
+    "name": "#3",
+    "description": "Congrats, on your level 3 achievement",
+    "image": "https://arweave.net/_xksr0LMX0W_wSQ3_H-_STq7rj1TUYv11ld0VlyvARQ",
+    "edition": 1,
+    "attributes": [
+      { "trait_type": "Level", "value": "3" },
+      { "trait_type": "Messages", "value": "30" }
+    ],
+    "platform": "Thentic Chat App"
+}
+}
